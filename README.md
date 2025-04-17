@@ -55,7 +55,7 @@
 
 - LinkedIn: [Coming soon...]
 - Portfolio: [Coming soon...]
-- Email: `your@email.com`
+- Email: `arpitraj109@gmail.com`
 
 ---
 
