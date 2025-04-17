@@ -53,8 +53,8 @@
 
 ### 📫 Let's connect!
 
-- LinkedIn: [Coming soon...]
-- Portfolio: [Coming soon...]
+- LinkedIn: https://www.linkedin.com/in/raj1arpit/
+- Portfolio: https://arpitraj109.github.io/Portfolio/#/
 - Email: `arpitraj109@gmail.com`
 
 ---
