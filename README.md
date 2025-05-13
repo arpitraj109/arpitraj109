@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Raj</h1>
-<h3 align="center">A frontend developer who loves building fun and useful web apps 🚀</h3>
+<h3 align="center">A software & fullstack developer who loves building fun and useful web apps 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpitraj109&label=Profile%20views&color=0e75b6&style=flat" alt="arpitraj109" />
@@ -7,9 +7,9 @@
 
 ---
 
-### 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -22,19 +22,19 @@
 
 ---
 
-### 🔥 Projects I'm proud of
+## 🔥 Projects I'm Proud Of
 
-- 🎨 [**Imagify**](https://github.com/arpitraj109/Imagify) — A text-to-image generator built with MERN stack and Razorpay test integration.
-- 📚 [**The Book Beacon**](https://github.com/arpitraj109/The-Book-Beacon) — A Django-powered digital library with advanced search and filters.
-- 🎬 [**Movie_App**](https://github.com/arpitraj109/Movie_App) — A movie browsing app using the TMDB API.
-- 🤖 [**Gemini_Clone**](https://github.com/arpitraj109/Gemini_Clone) — A clean Gemini UI clone with React.
-- 🧠 [**PokeDex**](https://github.com/arpitraj109/PokeDex) — A fun Pokédex with search functionality.
-- 💼 [**Portfolio**](https://github.com/arpitraj109/Portfolio) — My creative dev portfolio (React + Tailwind).
-- 📒 [**Todo-App**](https://github.com/arpitraj109/Todo-App) — Simple and clean todo manager.
+- 🎨 [**Imagify**](https://github.com/arpitraj109/Imagify) – A text-to-image generator built with MERN stack and Razorpay test integration.
+- 📚 [**The Book Beacon**](https://github.com/arpitraj109/The-Book-Beacon) – A Django-powered digital library with advanced search and filters.
+- 🎬 [**Movie_App**](https://github.com/arpitraj109/Movie_App) – A movie browsing app using the TMDB API.
+- 🤖 [**Gemini_Clone**](https://github.com/arpitraj109/Gemini_Clone) – A clean Gemini UI clone with React.
+- 🧠 [**PokeDex**](https://github.com/arpitraj109/PokeDex) – A fun Pokédex with search functionality.
+- 💼 [**Portfolio**](https://github.com/arpitraj109/Portfolio) – My creative dev portfolio (React + Tailwind).
+- 📒 [**Todo-App**](https://github.com/arpitraj109/Todo-App) – Simple and clean todo manager.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpitraj109&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -46,20 +46,20 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitraj109&theme=radical" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitraj109&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 Let's connect!
+## 📫 Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/raj1arpit](https://www.linkedin.com/in/raj1arpit/)
-- 🌐 Portfolio: [arpitraj109.github.io/Portfolio](https://arpitraj109.github.io/Portfolio/#/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/raj1arpit/)
+- 🌐 [**Portfolio**](https://arpitraj109.github.io/Portfolio/#/)
 - 📧 Email: `arpitraj109@gmail.com`
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
