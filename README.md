@@ -16,15 +16,16 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  
 </p>
 
 ---
 
 ### 🔥 Projects I'm proud of
 
+- 🎨 [**Imagify**](https://github.com/arpitraj109/Imagify) — A text-to-image generator built with MERN stack and Razorpay test integration.
+- 📚 [**The Book Beacon**](https://github.com/arpitraj109/The-Book-Beacon) — A Django-powered digital library with advanced search and filters.
 - 🎬 [**Movie_App**](https://github.com/arpitraj109/Movie_App) — A movie browsing app using the TMDB API.
 - 🤖 [**Gemini_Clone**](https://github.com/arpitraj109/Gemini_Clone) — A clean Gemini UI clone with React.
 - 🧠 [**PokeDex**](https://github.com/arpitraj109/PokeDex) — A fun Pokédex with search functionality.
@@ -55,9 +56,9 @@
 
 ### 📫 Let's connect!
 
-- LinkedIn: https://www.linkedin.com/in/raj1arpit/
-- Portfolio: https://arpitraj109.github.io/Portfolio/#/
-- Email: `arpitraj109@gmail.com`
+- 🔗 LinkedIn: [linkedin.com/in/raj1arpit](https://www.linkedin.com/in/raj1arpit/)
+- 🌐 Portfolio: [arpitraj109.github.io/Portfolio](https://arpitraj109.github.io/Portfolio/#/)
+- 📧 Email: `arpitraj109@gmail.com`
 
 ---
 
